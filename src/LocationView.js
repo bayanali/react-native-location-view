@@ -191,7 +191,7 @@ const styles = StyleSheet.create({
   fullWidthContainer: {
     position: 'absolute',
     width: '100%',
-    top: 80,
+    top: 10,
     alignItems: 'center',
   },
   input: {
